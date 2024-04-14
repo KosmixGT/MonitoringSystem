@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MonitoringSystem.data_manageCompany" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAACDtBxBAAACAAAACAAAIAAAgAEAACAAAAAA=</HashCode>
+      <FileName>data_manageCompany.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonitoringSystem.Autorization" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQACBEABAAAADAAAACAAABAAAABAAAAAgAAAA=</HashCode>
+      <FileName>Autorization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonitoringSystem.DataBase" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAABAAAAAAAQEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonitoringSystem.Events_CRUD" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAIAgxDBGBQMIIACkIAASAAAAAAAAAAAACAUBAAA=</HashCode>
+      <FileName>Events_CRUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonitoringSystem.Events_view" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAIAgCCBAAAAARKCgAAAKAAgAAgAAAAAAAAAAEAg=</HashCode>
+      <FileName>Events_view.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonitoringSystem.labelAndComboBox" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQACgMABAQAACAAAAiCAAQAAAIEAAAAAAAAAA=</HashCode>
+      <FileName>labelAndComboBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonitoringSystem.labelAndTextBox" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACCAAACAAAAAAAIEAAAAAAAAAA=</HashCode>
+      <FileName>labelAndTextBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonitoringSystem.Login_manageCompany" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAgCACgEABAAAACACAQCAAAAAAAABABAAgBAEAA=</HashCode>
+      <FileName>Login_manageCompany.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonitoringSystem.Login_Resident" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAgCACgEABAAAACACAQCCAAAAAAABABAAgBAEAA=</HashCode>
+      <FileName>Login_Resident.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonitoringSystem.MC_view" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAYAgQCBCAAIIhEikAAICBAgAQgAKEAABAAEAEAA=</HashCode>
+      <FileName>MC_view.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonitoringSystem.Menu_ADM" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACACAkAAAAAAGAAAAGAAAZAQAAACAAAAAASAA=</HashCode>
+      <FileName>Menu_ADM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonitoringSystem.Menu_MC" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACACAkAAAAAAGAAAAGAAA5AQAAAHAACAAASAA=</HashCode>
+      <FileName>Menu_MC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonitoringSystem.Menu_Resident" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAACACAkAQAAQACAAAAGAAA5AQAAADAAAAAACAA=</HashCode>
+      <FileName>Menu_Resident.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonitoringSystem.MKD_CM" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQhAAoQBEzBGABAALEChATgiAQYAgEABEAkBeQEAEAQ=</HashCode>
+      <FileName>MKD_CM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonitoringSystem.MKD_view" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQhIAoQBEzBAABAALECgATgiAQ4AgEABMAkBcQUAEAQ=</HashCode>
+      <FileName>MKD_view.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonitoringSystem.Reports_resident" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIUAqAIADAGgAECIACDAABKAAgABgAAAAJIAHRBAAI=</HashCode>
+      <FileName>Reports_resident.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonitoringSystem.Reports_view" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAUAoAgQDBCAAECBACgAAAKAAgAAgAAAAIBEFABEAA=</HashCode>
+      <FileName>Reports_view.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonitoringSystem.Unregistered_user" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACACAAAAAAAACAAAACAEA4AAAAAPAIAIAAAAA=</HashCode>
+      <FileName>Unregistered_user.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MonitoringSystem.users_CRUD" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIQAIAAgDCIBIOCIACEIQASAAAUAAAAAAAAAAUBAAY=</HashCode>
+      <FileName>users_CRUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
